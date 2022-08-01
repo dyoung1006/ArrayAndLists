@@ -1,3 +1,6 @@
 [submodule "ArrayAndListQuiz"]
 	path = ArrayAndListQuiz
 	url = git@github.com:mvdoyle/ArrayAndListQuiz.git
+[submodule "CollectionsMasterApp"]
+	path = CollectionsMasterApp
+	url = git@github.com:mvdoyle/CollectionsMasterApp.git
